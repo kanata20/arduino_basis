@@ -2,20 +2,20 @@
 arduinoで使う基本的なプログラム．
 arduino UNO用に書いていますが，他のarduinoにも使えると思います．
 
-1.blink
+###blink
 LEDチカチカのプログラム．
 
-2.digitalInput
+###digitalInput
 タッチセンサーのプログラム．
 
-3.ADconv
+###ADconv
 アナログピンを用いた，A/D変換のプログラム．
 
-4.Serial
+###Serial
 シリアル通信で数値を送るプログラム．
 
-5.analogWrite
+###analogWrite
 PWM信号を発してLEDの明るさを変化させる．
 
-6.motor
+###motor
 モータードライバを繋いでモーターを回す．
